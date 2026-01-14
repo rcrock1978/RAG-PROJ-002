@@ -1,0 +1,21 @@
+Machine learning is a way of getting computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every situation. 
+It is a subfield of artificial intelligence focused on building models that improve their performance as they see more data.​
+
+Core idea
+Machine learning systems use algorithms to analyze large datasets, detect patterns, and then generalize those patterns to new, unseen data. Instead of writing rigid rules, humans provide data and an objective (for example, “detect spam”), and the model learns its own internal rules to achieve that objective.​
+
+Main types
+The three commonly described types are:
+
+Supervised learning: models learn from labeled examples (input plus correct output) to do tasks like classification or regression.​
+
+Unsupervised learning: models find structure or groups in unlabeled data, such as clustering similar customers together.​
+
+Reinforcement learning: an agent learns by interacting with an environment, receiving rewards or penalties, and improving its policy over time.​
+
+How it works in practice
+Typical workflows include collecting data, cleaning and preprocessing it, choosing a model family, training it on historical data, and then evaluating and deploying it to make predictions on new inputs. As new data arrives, the model can be retrained or updated so that its performance continues to improve or stay aligned with changing real‑world conditions.​
+
+Everyday applications
+Machine learning powers search engines, recommendation systems (like those in streaming or shopping platforms), spam filters, and fraud detection tools. 
+It also underpins technologies such as image recognition, speech recognition, language translation, and autonomous vehicles.
